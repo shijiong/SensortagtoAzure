@@ -1,0 +1,1 @@
+C:\Users\shiji\Desktop\Windows IoT\Win 10 IoT Core Samples\RTM Sample\BluetoothGATT\CS\BluetoothGATT.csproj;arm
